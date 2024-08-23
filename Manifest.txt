@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Created-By: MAHIER Awen, RABOT Valentin, TRANSON Alexandre, FAUQUETTE Mael
+Main-Class: Main
